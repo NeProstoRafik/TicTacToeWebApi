@@ -10,3 +10,15 @@ E:\proj\TicTacToeWebApi.Domain\obj\Debug\net6.0\TicTacToeWebApi.Domain.dll
 E:\proj\TicTacToeWebApi.Domain\obj\Debug\net6.0\refint\TicTacToeWebApi.Domain.dll
 E:\proj\TicTacToeWebApi.Domain\obj\Debug\net6.0\TicTacToeWebApi.Domain.pdb
 E:\proj\TicTacToeWebApi.Domain\obj\Debug\net6.0\ref\TicTacToeWebApi.Domain.dll
+E:\proj\TicTacToeWebApi\TicTacToeWebApi.Domain\bin\Debug\net6.0\TicTacToeWebApi.Domain.deps.json
+E:\proj\TicTacToeWebApi\TicTacToeWebApi.Domain\bin\Debug\net6.0\TicTacToeWebApi.Domain.dll
+E:\proj\TicTacToeWebApi\TicTacToeWebApi.Domain\bin\Debug\net6.0\TicTacToeWebApi.Domain.pdb
+E:\proj\TicTacToeWebApi\TicTacToeWebApi.Domain\obj\Debug\net6.0\TicTacToeWebApi.Domain.csproj.AssemblyReference.cache
+E:\proj\TicTacToeWebApi\TicTacToeWebApi.Domain\obj\Debug\net6.0\TicTacToeWebApi.Domain.GeneratedMSBuildEditorConfig.editorconfig
+E:\proj\TicTacToeWebApi\TicTacToeWebApi.Domain\obj\Debug\net6.0\TicTacToeWebApi.Domain.AssemblyInfoInputs.cache
+E:\proj\TicTacToeWebApi\TicTacToeWebApi.Domain\obj\Debug\net6.0\TicTacToeWebApi.Domain.AssemblyInfo.cs
+E:\proj\TicTacToeWebApi\TicTacToeWebApi.Domain\obj\Debug\net6.0\TicTacToeWebApi.Domain.csproj.CoreCompileInputs.cache
+E:\proj\TicTacToeWebApi\TicTacToeWebApi.Domain\obj\Debug\net6.0\TicTacToeWebApi.Domain.dll
+E:\proj\TicTacToeWebApi\TicTacToeWebApi.Domain\obj\Debug\net6.0\refint\TicTacToeWebApi.Domain.dll
+E:\proj\TicTacToeWebApi\TicTacToeWebApi.Domain\obj\Debug\net6.0\TicTacToeWebApi.Domain.pdb
+E:\proj\TicTacToeWebApi\TicTacToeWebApi.Domain\obj\Debug\net6.0\ref\TicTacToeWebApi.Domain.dll

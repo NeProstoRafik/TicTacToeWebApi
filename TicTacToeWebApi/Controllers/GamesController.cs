@@ -18,17 +18,17 @@ namespace TicTacToeWebApi.Controllers
             _gameService = gameService;
         }
 
-        public ActionResult GetAll()
+        public IResult GetAll()
         {
             var result = _gameService.GetAll().Result;
-            return View(result);
+            return Results.Json(result); 
         }
         public async Task Create(ViewGameModel model)
         {
             await _gameService.Create(model);
         }
 
-        public async Task GamePlay(Point point)
+        public void GamePlay(Point point)
         {
             _gameSession.Motion(point);
         }
