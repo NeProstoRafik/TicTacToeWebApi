@@ -43,11 +43,7 @@ namespace TicTacToeWebApi
 
             app.UseHttpsRedirection();
 
-            app.UseAuthorization();
-
-            //app.MapControllerRoute(
-            //name: "default",
-            //pattern: "{controller=Games}/{action=GetAll}/{id?}");
+            app.UseAuthorization();          
 
             app.MapControllers();
 

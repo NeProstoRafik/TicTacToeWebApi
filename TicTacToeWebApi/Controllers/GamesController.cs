@@ -17,25 +17,29 @@ namespace TicTacToeWebApi.Controllers
         {
             _gameService = gameService;
         }
-
+        [HttpGet("GetAllGames")]
         public IResult GetAll()
         {
             var result = _gameService.GetAll().Result;
-            return Results.Json(result); 
+            return Results.Json(result);
         }
+
+        [HttpPost("StartNewGame")]
         public async Task Create(ViewGameModel model)
         {
             await _gameService.Create(model);
         }
-
+        [HttpPut("Move")]
         public void GamePlay(Point point)
         {
             _gameSession.Motion(point);
         }
-        public IActionResult NewGame(ViewGameModel model)
+
+
+        [HttpGet("GetHasWinner")]
+        public void HasWinner(ViewGameModel model)
         {
             _gameService.Update(model);
-            return RedirectToAction("Create");
         }
     }
 }
