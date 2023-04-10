@@ -1,0 +1,17 @@
+E:\proj\TicTacToeWebApi.Service\bin\Debug\net6.0\TicTacToeWebApi.Service.deps.json
+E:\proj\TicTacToeWebApi.Service\bin\Debug\net6.0\TicTacToeWebApi.Service.dll
+E:\proj\TicTacToeWebApi.Service\bin\Debug\net6.0\TicTacToeWebApi.Service.pdb
+E:\proj\TicTacToeWebApi.Service\bin\Debug\net6.0\TicTacToeWebApi.DAL.dll
+E:\proj\TicTacToeWebApi.Service\bin\Debug\net6.0\TicTacToeWebApi.Domain.dll
+E:\proj\TicTacToeWebApi.Service\bin\Debug\net6.0\TicTacToeWebApi.DAL.pdb
+E:\proj\TicTacToeWebApi.Service\bin\Debug\net6.0\TicTacToeWebApi.Domain.pdb
+E:\proj\TicTacToeWebApi.Service\obj\Debug\net6.0\TicTacToeWebApi.Service.csproj.AssemblyReference.cache
+E:\proj\TicTacToeWebApi.Service\obj\Debug\net6.0\TicTacToeWebApi.Service.GeneratedMSBuildEditorConfig.editorconfig
+E:\proj\TicTacToeWebApi.Service\obj\Debug\net6.0\TicTacToeWebApi.Service.AssemblyInfoInputs.cache
+E:\proj\TicTacToeWebApi.Service\obj\Debug\net6.0\TicTacToeWebApi.Service.AssemblyInfo.cs
+E:\proj\TicTacToeWebApi.Service\obj\Debug\net6.0\TicTacToeWebApi.Service.csproj.CoreCompileInputs.cache
+E:\proj\TicTacToeWebApi.Service\obj\Debug\net6.0\TicTacToeWebApi.Service.csproj.CopyComplete
+E:\proj\TicTacToeWebApi.Service\obj\Debug\net6.0\TicTacToeWebApi.Service.dll
+E:\proj\TicTacToeWebApi.Service\obj\Debug\net6.0\refint\TicTacToeWebApi.Service.dll
+E:\proj\TicTacToeWebApi.Service\obj\Debug\net6.0\TicTacToeWebApi.Service.pdb
+E:\proj\TicTacToeWebApi.Service\obj\Debug\net6.0\ref\TicTacToeWebApi.Service.dll

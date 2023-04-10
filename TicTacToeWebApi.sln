@@ -3,13 +3,13 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.5.33502.453
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TicTacToeWebApi", "TicTacToeWebApi.csproj", "{1C13E837-BE6F-4001-8A4A-9260F70A677D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TicTacToeWebApi", "TicTacToeWebApi\TicTacToeWebApi.csproj", "{1C13E837-BE6F-4001-8A4A-9260F70A677D}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TicTacToeWebApi.DAL", "..\TicTacToeWebApi.DAL\TicTacToeWebApi.DAL.csproj", "{1936BD53-7C41-424D-962E-11F031FE6860}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TicTacToeWebApi.DAL", "TicTacToeWebApi.DAL\TicTacToeWebApi.DAL.csproj", "{1936BD53-7C41-424D-962E-11F031FE6860}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TicTacToeWebApi.Domain", "..\TicTacToeWebApi.Domain\TicTacToeWebApi.Domain.csproj", "{EE0E875D-D938-4ABE-8AA4-4F37CAD93102}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TicTacToeWebApi.Domain", "TicTacToeWebApi.Domain\TicTacToeWebApi.Domain.csproj", "{EE0E875D-D938-4ABE-8AA4-4F37CAD93102}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TicTacToeWebApi.Service", "..\TicTacToeWebApi.Service\TicTacToeWebApi.Service.csproj", "{A2F4FAF7-70A0-4B86-88A5-9CBC12A5962C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TicTacToeWebApi.Service", "TicTacToeWebApi.Service\TicTacToeWebApi.Service.csproj", "{A2F4FAF7-70A0-4B86-88A5-9CBC12A5962C}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Liba", "Liba", "{4CCE0BF6-AC19-4B9A-9410-F2A8468EAA59}"
 EndProject
